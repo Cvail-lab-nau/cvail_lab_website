@@ -5,6 +5,6 @@
 
   # Cvail-lab-nau's Website
 
-  Visit **[cvail-lab-nau.github.io/cvail_lab_website](https://cvail-lab-nau.github.io/cvail_lab_website)** 🚀
+  Visit **[cvail.net](http://cvail.net)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
