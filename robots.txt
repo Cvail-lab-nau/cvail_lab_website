@@ -1,1 +1,1 @@
-Sitemap: https://cvail-lab-nau.github.io/cvail_lab_website/sitemap.xml
+Sitemap: http://cvail.net/sitemap.xml
