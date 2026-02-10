@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: Cvail-lab-nau
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: C-VAIL
+subtitle: Nothern Arizona University
+description: Clinical Vision and AI Lab
+header: images/background.png
+footer: images/background.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@Cvail-lab-nau.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: contact@cvail.nau@gmail.com
+  #orcid: 0000-0001-8713-9213
+  #google-scholar: ETJoidYAAAAJ
   github: Cvail-lab-nau
-  twitter: Cvail-lab-nau
-  youtube: Cvail-lab-nau
+  #twitter: Cvail-lab-nau
+  #youtube: Cvail-lab-nau
 
 ### jekyll settings
 
