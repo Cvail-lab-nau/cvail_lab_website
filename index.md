@@ -49,7 +49,7 @@ We are actively building our research agenda at the intersection of computer vis
 
 {%
   include feature.html
-  image="images/project.jpg"
+  image="images/project.svg"
   link="projects"
   title="Our Projects"
   flip=true
