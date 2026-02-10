@@ -16,7 +16,7 @@ C-VAIL bridges the gap between cutting-edge machine learning research and real-w
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our Research Agenda"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,7 +28,7 @@ C-VAIL bridges the gap between cutting-edge machine learning research and real-w
   include feature.html
   image="images/research.png"
   link="research"
-  title="Our Research"
+  title="AI meets Healthcare"
   text=text
 %}
 
@@ -39,7 +39,7 @@ We are actively building our research agenda at the intersection of computer vis
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Projects launching soon"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,7 +49,7 @@ We are actively building our research agenda at the intersection of computer vis
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -64,7 +64,7 @@ We are in the early stages of exciting projects focused on clinical AI and deep 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet the Team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,7 +75,7 @@ We are in the early stages of exciting projects focused on clinical AI and deep 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.html"
   link="team"
   title="Our Team"
   text=text
@@ -83,6 +83,6 @@ We are in the early stages of exciting projects focused on clinical AI and deep 
 
 {% capture text %}
 
-C-VAIL is looking for motivated PhD students, MS students, and undergraduate researchers passionate about AI and healthcare. This is your chance to shape the lab from the ground up.
+We are always happy to engage in conversations with students who are interested in future opportunities or collaborative work.
 
 {% endcapture %}
