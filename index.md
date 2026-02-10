@@ -26,7 +26,7 @@ C-VAIL bridges the gap between cutting-edge machine learning research and real-w
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
