@@ -84,3 +84,5 @@ We are in the early stages of exciting projects focused on clinical AI and deep 
 {% capture text %}
 
 C-VAIL is looking for motivated PhD students, MS students, and undergraduate researchers passionate about AI and healthcare. This is your chance to shape the lab from the ground up.
+
+{% endcapture %}
