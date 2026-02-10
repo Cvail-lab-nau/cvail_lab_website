@@ -45,11 +45,11 @@ collections:
 
 # jekyll plugins
 plugins:
-  - jekyll-spaceship
+  #- jekyll-spaceship
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
-  - jekyll-last-modified-at
+  #- jekyll-last-modified-at
 
 # code block syntax highlighting
 highlighter: rouge
