@@ -1,9 +1,9 @@
 ---
 ---
 
-# Clinical Vision and AI Lab
+# Where clinical vision meets trustworthy Artificial Intelligence
 
-The Clinical Vision and AI Lab (C-VAIL) at Northern Arizona University advances computer vision and deep learning to solve high-stakes problems in healthcare, building AI systems that clinicians can understand, trust, and act on.
+The Clinical Vision and AI Lab (C-VAIL) at [Northern Arizona University](https://nau.edu/school-informatics-computing-cyber-systems/) advances Computer Vision and Deep Learning to solve high-stakes problems in healthcare, building AI systems that clinicians can understand, trust, and act on.
 
 {% include section.html %}
 
@@ -11,15 +11,13 @@ The Clinical Vision and AI Lab (C-VAIL) at Northern Arizona University advances 
 
 {% capture text %}
 
-C-VAIL bridges the gap between cutting-edge machine learning research and real-world clinical deployment. We work at the intersection of computer vision, medical imaging, and responsible AI: Developing tools that are interpretable, equitable, and validated for clinical environments.
-
+We build AI systems that help clinicians make better decisions and improve patient outcomes. In all of our work, we prioritize explainability, fairness, and real-world validation.
 {%
   include button.html
   link="research"
   text="See our Research Agenda"
-  icon="fa-solid fa-arrow-right"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -40,9 +38,9 @@ We are actively building our research agenda at the intersection of computer vis
   include button.html
   link="projects"
   text="Projects launching soon"
-  icon="fa-solid fa-arrow-right"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
+  
 %}
 
 {% endcapture %}
@@ -65,9 +63,8 @@ We are in the early stages of exciting projects focused on clinical AI and deep 
   include button.html
   link="team"
   text="Meet the Team"
-  icon="fa-solid fa-arrow-right"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -75,7 +72,7 @@ We are in the early stages of exciting projects focused on clinical AI and deep 
 
 {%
   include feature.html
-  image="images/team.html"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
