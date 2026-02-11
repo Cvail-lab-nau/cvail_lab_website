@@ -1,4 +1,4 @@
-- id: doi.org/10.1038/s41598-025-91430-0
+- id: doi:10.1038/s41598-025-91430-0
   type: paper
   description: Teach-Former, a novel knowledge distillation (KD) framework that leverages a Transformer backbone to effectively condense the knowledge of multiple teacher models into a single, streamlined student model. Moreover, it excels in the contextual and spatial interpretation of relationships across multimodal images for more accurate and precise segmentation.
   date: '2025-05-07'

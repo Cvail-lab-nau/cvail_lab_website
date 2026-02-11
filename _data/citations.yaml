@@ -1,5 +1,5 @@
 
-- id: doi.org/10.1038/s41598-025-91430-0
+- id: doi:10.1038/s41598-025-91430-0
   title: Enhancing efficient deep learning models with multimodal, multi-teacher insights for medical image segmentation
   authors:
   - Khondker Fariha Hossain
@@ -27,7 +27,7 @@
   - knowledge distillation
   - oncology
   repo: TeachFormer
-- id: doi.org/10.1007/978-3-031-43990-2_65
+- id: doi:10.1007/978-3-031-43990-2_65
   title: Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology
   authors:
   - Khondker Fariha Hossain
@@ -41,7 +41,7 @@
   orcid: 0009-0002-1641-2205
   plugin: orcid.py
   file: orcid.yaml
-- id: doi.org/10.1007/978-3-031-17721-7_8
+- id: doi:10.1007/978-3-031-17721-7_8
   title: ECG-ATK-GAN: Robustness Against Adversarial Attacks on ECGs Using Conditional Generative Adversarial Networks
   authors:
   - Khondker Fariha Hossain
@@ -54,7 +54,7 @@
   orcid: 0009-0002-1641-2205
   plugin: orcid.py
   file: orcid.yaml
-- id: doi.org/10.1109/ICMLA52953.2021.00016
+- id: doi:10.1109/ICMLA52953.2021.00016
   title: ECG-Adv-GAN: Detecting ECG Adversarial Examples with Conditional Generative Adversarial Networks
   authors:
   - Khondker Fariha Hossain
@@ -69,7 +69,7 @@
   orcid: 0009-0002-1641-2205
   plugin: orcid.py
   file: orcid.yaml
-- id: doi.org/10.1109/ICCVW54120.2021.00362
+- id: doi:10.1109/ICCVW54120.2021.00362
   title: VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers
   authors:
   - Sharif Amit Kamran
@@ -83,7 +83,7 @@
   orcid: 0009-0002-1641-2205
   plugin: orcid.py
   file: orcid.yaml
-- id: doi.org/10.1007/978-3-030-87237-3_4
+- id: doi:10.1007/978-3-030-87237-3_4
   title: RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network
   authors:
   - Sharif Amit Kamran
