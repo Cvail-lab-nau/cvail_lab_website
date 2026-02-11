@@ -9,14 +9,16 @@ nav:
 
 The lab is new and research is actively underway
 Is your calendar up to date? We can set up a time to meet!
-<!--
+
 {% include section.html %}
 
 
 ## Highlighted
+{% include citation.html lookup="Enhancing efficient deep learning models with multimodal, multi-teacher insights for medical image segmentation" style="rich" %}
 
+<!--
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
+-->
 {% include section.html %}
 
 ## All
@@ -26,4 +28,3 @@ Is your calendar up to date? We can set up a time to meet!
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
--->

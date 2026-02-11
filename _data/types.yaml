@@ -189,6 +189,10 @@ manubot:
   text: Manubot
   tooltip: Manubot
 
+github:
+  icon: github-outline.svg
+  text: GitHub
+  tooltip: GitHub
 # software
 
 docs:

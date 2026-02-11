@@ -1,20 +1,18 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi.org/10.1038/s41598-025-91430-0
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: Teach-Former, a novel knowledge distillation (KD) framework that leverages a Transformer backbone to effectively condense the knowledge of multiple teacher models into a single, streamlined student model. Moreover, it excels in the contextual and spatial interpretation of relationships across multimodal images for more accurate and precise segmentation.
+  date: '2025-05-07'
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-91430-0/MediaObjects/41598_2025_91430_Fig2_HTML.png?as=webp
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  - type: github
+    link: https://github.com/FarihaHossain/TeachFormer
+  - type: source
+    text: Manuscript Source
+    link: https://www.nature.com/articles/s41598-025-91430-0
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  - knowledge distillation
+  - oncology
+  repo: TeachFormer
 
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
