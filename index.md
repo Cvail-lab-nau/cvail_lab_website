@@ -3,7 +3,8 @@
 
 # Where clinical vision meets trustworthy Artificial Intelligence
 
-The Clinical Vision and AI Lab (C-VAIL) at [Northern Arizona University](https://nau.edu/school-informatics-computing-cyber-systems/) advances Computer Vision and Deep Learning to solve high-stakes problems in healthcare, building AI systems that clinicians can understand, trust, and act on.
+At the Clinical Vision and AI Lab (C-VAIL), we're on a mission to make AI a trusted partner in healthcare, not just a black box. Based at [Northern Arizona University](https://nau.edu/school-informatics-computing-cyber-systems/), our team develops computer vision and deep learning systems that tackle medicine's toughest challenges—from detecting disease in medical images to predicting patient outcomes. We don't just build accurate models, we build accountable ones!
+Every algorithm we create is designed with interpretability, fairness, and clinical validation at its core, ensuring that when a doctor makes a life-or-death decision, they can trust the AI standing beside them.
 
 {% include section.html %}
 
