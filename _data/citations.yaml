@@ -16,7 +16,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-031-43990-2_65
-  title: Revolutionizing Space Health (Swin-FSR) Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology
+  title: "Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of\_\
+    Fundus Images for\_SANS Visual Assessment Technology"
   authors:
   - Khondker Fariha Hossain
   - Sharif Amit Kamran
@@ -30,7 +31,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-031-17721-7_8
-  title: ECG-ATK-GAN Robustness Against Adversarial Attacks on ECGs Using Conditional Generative Adversarial Networks
+  title: "ECG-ATK-GAN: Robustness Against Adversarial Attacks on\_ECGs Using Conditional\
+    \ Generative Adversarial Networks"
   authors:
   - Khondker Fariha Hossain
   - Sharif Amit Kamran
@@ -60,7 +62,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/icmla52953.2021.00016
-  title: 'ECG-Adv-GAN Detecting ECG Adversarial Examples with Conditional Generative
+  title: 'ECG-Adv-GAN: Detecting ECG Adversarial Examples with Conditional Generative
     Adversarial Networks'
   authors:
   - Khondker Fariha Hossain
