@@ -1,61 +1,82 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1038/s41598-025-91430-0
-  title: Enhancing efficient deep learning models with multimodal, multi-teacher insights for medical image segmentation
+- id: doi:10.1109/isbi53787.2023.10230342
+  title: 'Swin-SFTNet : Spatial Feature Expansion and Aggregation Using Swin Transformer
+    for Whole Breast Micro-Mass Segmentation'
   authors:
-  - Khondker Fariha Hossain
   - Sharif Amit Kamran
-  - Joshua Ong
+  - Khondker Fariha Hossain
   - Alireza Tavakkoli
-  publisher: Scientific Reports, Nature Research
-  date: '2025-05-07'
-  link: https://doi.org/10.1038/s41598-025-91430-0
+  - George Bebis
+  - Sal Baker
+  publisher: 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)
+  date: '2023-04-18'
+  link: https://doi.org/hbn8g3
   orcid: 0009-0002-1641-2205
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Teach-Former, a novel knowledge distillation (KD) framework that leverages a Transformer backbone to effectively condense the knowledge of multiple teacher models into a single, streamlined student model. Moreover, it excels in the contextual and spatial interpretation of relationships across multimodal images for more accurate and precise segmentation. 
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-91430-0/MediaObjects/41598_2025_91430_Fig2_HTML.png?as=webp
-  buttons:
-  - type: github
-    link: https://github.com/FarihaHossain/TeachFormer
-  - type: source
-    text: Manuscript Source
-    link: https://www.nature.com/articles/s41598-025-91430-0
-  #- type: website
-  #  link: http://manubot.org/
-  tags:
-  - knowledge distillation
-  - oncology
-  repo: TeachFormer
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-031-43990-2_65
+<<<<<<< HEAD
   title: Revolutionizing Space Health (Swin-FSR) Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology
+=======
+  title: "Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of\_\
+    Fundus Images for\_SANS Visual Assessment Technology"
+>>>>>>> 40c81a192c5b9221b009ced313f326ade7400bad
   authors:
   - Khondker Fariha Hossain
   - Sharif Amit Kamran
   - Joshua Ong
   - Andrew G. Lee
   - Alireza Tavakkoli
-  publisher: Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)
-  date: '2023-10-01'
-  link: https://doi.org/10.1007/978-3-031-43990-2_65
+  publisher: Lecture Notes in Computer Science
+  date: '2023-01-01'
+  link: https://doi.org/hbn8g4
   orcid: 0009-0002-1641-2205
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-031-17721-7_8
+<<<<<<< HEAD
   title: ECG-ATK-GAN Robustness Against Adversarial Attacks on ECGs Using Conditional Generative Adversarial Networks
+=======
+  title: "ECG-ATK-GAN: Robustness Against Adversarial Attacks on\_ECGs Using Conditional\
+    \ Generative Adversarial Networks"
+>>>>>>> 40c81a192c5b9221b009ced313f326ade7400bad
   authors:
   - Khondker Fariha Hossain
   - Sharif Amit Kamran
   - Alireza Tavakkoli
   - Xingjun Ma
-  publisher: MICCAI International Workshop on Applications of Medical AI 2022 (MICCAI-AMAI)
-  date: '2022-09-18'
-  link: https://doi.org/10.1007/978-3-031-17721-7_8
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hbn8g5
   orcid: 0009-0002-1641-2205
   plugin: orcid.py
   file: orcid.yaml
+<<<<<<< HEAD
 - id: doi:10.1109/ICMLA52953.2021.00016
   title: ECG-Adv-GAN Detecting ECG Adversarial Examples with Conditional Generative Adversarial Networks
+=======
+- id: doi:10.1007/978-3-031-20716-7_18
+  title: "Virtual-Reality Based Vestibular Ocular Motor Screening for\_Concussion\
+    \ Detection Using Machine-Learning"
+  authors:
+  - Khondker Fariha Hossain
+  - Sharif Amit Kamran
+  - Prithul Sarker
+  - Philip Pavilionis
+  - Isayas Adhanom
+  - Nicholas Murray
+  - Alireza Tavakkoli
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hbn8g6
+  orcid: 0009-0002-1641-2205
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icmla52953.2021.00016
+  title: 'ECG-Adv-GAN: Detecting ECG Adversarial Examples with Conditional Generative
+    Adversarial Networks'
+>>>>>>> 40c81a192c5b9221b009ced313f326ade7400bad
   authors:
   - Khondker Fariha Hossain
   - Sharif Amit Kamran
@@ -63,38 +84,99 @@
   - Lei Pan
   - Xingjun Ma
   - Sutharshan Rajasegarar
-  publisher: 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)
-  date: '2021-12-13'
-  link: https://doi.org/10.1109/ICMLA52953.2021.00016
+  - Chandan Karmaker
+  publisher: 2021 20th IEEE International Conference on Machine Learning and Applications
+    (ICMLA)
+  date: '2021-12-01'
+  link: https://doi.org/hbn8g7
   orcid: 0009-0002-1641-2205
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ICCVW54120.2021.00362
-  title: VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
   authors:
-  - Sharif Amit Kamran
-  - Khondker Fariha Hossain
-  - Alireza Tavakkoli
-  - Stewart L. Zuckerbrod
-  - Sal A. Baker
-  publisher: IEEE/CVF International Conference on Computer Vision Workshops 2021 (ICCVW) 
-  date: '2021-11-24'
-  link: https://doi.org/10.1109/ICCVW54120.2021.00362
-  orcid: 0009-0002-1641-2205
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/978-3-030-87237-3_4
-  title: RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources_old.yaml
+- id: doi:10.1016/j.csbj.2020.05.017
+  title: Constructing knowledge graphs and their biomedical applications
   authors:
-  - Sharif Amit Kamran
+  - David N. Nicholson
+  - Casey S. Greene
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/gg7m48
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-025-91430-0
+  title: Enhancing efficient deep learning models with multimodal, multi-teacher insights
+    for medical image segmentation
+  authors:
   - Khondker Fariha Hossain
+  - Sharif Amit Kamran
+  - Joshua Ong
   - Alireza Tavakkoli
-  - Stewart L. Zuckerbrod
-  - Kenton M. Sanders
-  - Sal A. Baker
-  publisher: Medical Image Computing and Computer Assisted Intervention (MICCAI 2021)
-  date: '2021-09-21'
-  link: https://doi.org/10.1007/978-3-030-87237-3_4
-  orcid: 0009-0002-1641-2205
-  plugin: orcid.py
-  file: orcid.yaml
+  publisher: Scientific Reports
+  date: '2025-05-07'
+  link: https://doi.org/hbn8hd
+  type: paper
+  description: Teach-Former, a novel knowledge distillation (KD) framework that leverages
+    a Transformer backbone to effectively condense the knowledge of multiple teacher
+    models into a single, streamlined student model. Moreover, it excels in the contextual
+    and spatial interpretation of relationships across multimodal images for more
+    accurate and precise segmentation.
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-91430-0/MediaObjects/41598_2025_91430_Fig2_HTML.png?as=webp
+  buttons:
+  - type: github
+    link: https://github.com/FarihaHossain/TeachFormer
+  - type: source
+    text: Manuscript Source
+    link: https://www.nature.com/articles/s41598-025-91430-0
+  tags:
+  - knowledge distillation
+  - oncology
+  repo: TeachFormer
+  plugin: sources.py
+  file: sources.yaml
