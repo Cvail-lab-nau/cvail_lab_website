@@ -15,3 +15,9 @@ Have a question about our research, or interested in joining the lab? We'd love 
   text="cvail.nau@gmail.com"
   link="cvail.nau@gmail.com"
 %}
+{%
+  include button.html
+  type="email"
+  text="Fariha-k.hossain@nau.edu"
+  link="Fariha-k.hossain@nau.edu"
+%}
