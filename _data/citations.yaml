@@ -79,6 +79,63 @@
   orcid: 0009-0002-1641-2205
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41598-025-91430-0
+  title: Enhancing efficient deep learning models with multimodal, multi-teacher insights
+    for medical image segmentation
+  authors:
+  - Khondker Fariha Hossain
+  - Sharif Amit Kamran
+  - Joshua Ong
+  - Alireza Tavakkoli
+  publisher: Scientific Reports
+  date: '2025-05-07'
+  link: https://doi.org/hbn8hd
+  type: paper
+  description: Teach-Former, a novel knowledge distillation (KD) framework that leverages
+    a Transformer backbone to effectively condense the knowledge of multiple teacher
+    models into a single, streamlined student model. Moreover, it excels in the contextual
+    and spatial interpretation of relationships across multimodal images for more
+    accurate and precise segmentation.
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-91430-0/MediaObjects/41598_2025_91430_Fig2_HTML.png?as=webp
+  buttons:
+  - type: github
+    link: https://github.com/FarihaHossain/TeachFormer
+  - type: source
+    text: Manuscript Source
+    link: https://www.nature.com/articles/s41598-025-91430-0
+  tags:
+  - knowledge distillation
+  - oncology
+  repo: FarihaHossain/TeachFormer
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.csbj.2020.05.017
+  title: Constructing knowledge graphs and their biomedical applications
+  authors:
+  - David N. Nicholson
+  - Casey S. Greene
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/gg7m48
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources_old.yaml
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources_old.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -110,60 +167,3 @@
   repo: greenelab/meta-review
   plugin: sources.py
   file: sources_old.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41598-025-91430-0
-  title: Enhancing efficient deep learning models with multimodal, multi-teacher insights
-    for medical image segmentation
-  authors:
-  - Khondker Fariha Hossain
-  - Sharif Amit Kamran
-  - Joshua Ong
-  - Alireza Tavakkoli
-  publisher: Scientific Reports
-  date: '2025-05-07'
-  link: https://doi.org/hbn8hd
-  type: paper
-  description: Teach-Former, a novel knowledge distillation (KD) framework that leverages
-    a Transformer backbone to effectively condense the knowledge of multiple teacher
-    models into a single, streamlined student model. Moreover, it excels in the contextual
-    and spatial interpretation of relationships across multimodal images for more
-    accurate and precise segmentation.
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-91430-0/MediaObjects/41598_2025_91430_Fig2_HTML.png?as=webp
-  buttons:
-  - type: github
-    link: https://github.com/FarihaHossain/TeachFormer
-  - type: source
-    text: Manuscript Source
-    link: https://www.nature.com/articles/s41598-025-91430-0
-  tags:
-  - knowledge distillation
-  - oncology
-  repo: TeachFormer
-  plugin: sources.py
-  file: sources.yaml
