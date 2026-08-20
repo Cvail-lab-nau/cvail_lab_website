@@ -13,8 +13,13 @@
   date: '2023-04-18'
   link: https://doi.org/hbn8g3
   orcid: 0009-0002-1641-2205
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  buttons:
+  - type: github
+    link: https://github.com/FarihaHossain/Swin-SFTNet
+  repo: FarihaHossain/Swin-SFTNet
 - id: doi:10.1007/978-3-031-43990-2_65
   title: "Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of\_\
     Fundus Images for\_SANS Visual Assessment Technology"
@@ -28,8 +33,13 @@
   date: '2023-01-01'
   link: https://doi.org/hbn8g4
   orcid: 0009-0002-1641-2205
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  buttons:
+  - type: github
+    link: https://github.com/FarihaHossain/SwinFSR
+  repo: FarihaHossain/SwinFSR
 - id: doi:10.1007/978-3-031-17721-7_8
   title: "ECG-ATK-GAN: Robustness Against Adversarial Attacks on\_ECGs Using Conditional\
     \ Generative Adversarial Networks"
@@ -42,8 +52,13 @@
   date: '2022-01-01'
   link: https://doi.org/hbn8g5
   orcid: 0009-0002-1641-2205
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  buttons:
+  - type: github
+    link: https://github.com/FarihaHossain/ECG-ATK-GAN
+  repo: FarihaHossain/ECG-ATK-GAN
 - id: doi:10.1007/978-3-031-20716-7_18
   title: "Virtual-Reality Based Vestibular Ocular Motor Screening for\_Concussion\
     \ Detection Using Machine-Learning"
@@ -77,8 +92,13 @@
   date: '2021-12-01'
   link: https://doi.org/hbn8g7
   orcid: 0009-0002-1641-2205
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  buttons:
+  - type: github
+    link: https://github.com/FarihaHossain/ECG-Adv-GAN
+  repo: FarihaHossain/ECG-Adv-GAN
 - id: doi:10.1038/s41598-025-91430-0
   title: Enhancing efficient deep learning models with multimodal, multi-teacher insights
     for medical image segmentation
