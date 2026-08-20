@@ -9,6 +9,11 @@
   background: var(--background);
   overflow: hidden;
   box-shadow: var(--shadow);
+  transition: box-shadow var(--transition);
+}
+
+.citation:hover {
+  box-shadow: 0 16px 40px -8px var(--overlay);
 }
 
 .citation-image {
@@ -23,6 +28,11 @@
   width: 100%;
   height: 100%;
   object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+.citation:hover .citation-image img {
+  transform: scale(1.04);
 }
 
 .citation-text {
