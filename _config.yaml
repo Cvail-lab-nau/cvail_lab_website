@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Clinical Vision and AI Lab (C-VAIL)
-subtitle: Nothern Arizona University
+subtitle: Northern Arizona University
 description: Where clinical vision meets trustworthy Artificial Intelligence
 header: images/background_1.jpg
 footer: images/background_1.jpg
@@ -8,9 +8,8 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@cvail.nau@gmail.com
-  #orcid: 0000-0001-8713-9213
-  #google-scholar: ETJoidYAAAAJ
+  email: cvail.nau@gmail.com
+  google-scholar: pey8DYgAAAAJ
   github: Cvail-lab-nau
   #twitter: Cvail-lab-nau
   #youtube: Cvail-lab-nau
@@ -29,18 +28,10 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
 
 collections:
   # generate page for each member
   members:
-    output: true
-  # generate page for each post
-  posts:
     output: true
 
 # jekyll plugins
@@ -48,7 +39,6 @@ plugins:
   #- jekyll-spaceship
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-feed
   #- jekyll-last-modified-at
 
 # code block syntax highlighting

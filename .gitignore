@@ -1,5 +1,8 @@
 _site
 .sass-cache
+
+# personal/private documents — never publish to the public site repo
+/Academic Job apply/
 .jekyll-cache
 .jekyll-metadata
 vendor

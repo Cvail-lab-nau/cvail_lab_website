@@ -2,35 +2,37 @@
 ---
 
 // colors
+// primary/secondary drawn from the C-VAIL mark (navy + teal); text and
+// grays are cool-toned to match rather than flat neutrals
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
+  --primary: #123c69;
+  --secondary: #0f9d8c;
+  --text: #14181f;
   --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000020;
+  --background-alt: #f6f8fb;
+  --light-gray: #e2e6ec;
+  --gray: #6b7280;
+  --dark-gray: #374151;
+  --overlay: #0b213520;
 }
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
-  --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
-  --overlay: #ffffff10;
+  --primary: #4fc3f7;
+  --secondary: #2dd4bf;
+  --text: #f3f5f8;
+  --background: #0b1220;
+  --background-alt: #10192b;
+  --light-gray: #29344a;
+  --gray: #8b94a7;
+  --dark-gray: #c7ccd6;
+  --overlay: #00000050;
 }
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
-  --code: "Roboto Mono", monospace;
+  --title: "Sora", sans-serif;
+  --heading: "Sora", sans-serif;
+  --body: "Inter", sans-serif;
+  --code: "JetBrains Mono", monospace;
 
   // font sizes
   --large: 1.2rem;
@@ -38,17 +40,17 @@
   --xxl: 1.6rem;
 
   // font weights
-  --thin: 200;
+  --thin: 300;
   --regular: 400;
-  --semi-bold: 500;
-  --bold: 600;
+  --semi-bold: 600;
+  --bold: 700;
 
   // text line spacing
   --spacing: 2;
   --compact: 1.5;
 
   // effects
-  --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --rounded: 14px;
+  --shadow: 0 12px 32px -8px var(--overlay);
   --transition: 0.2s ease;
 }

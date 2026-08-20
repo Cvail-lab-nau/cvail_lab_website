@@ -1,9 +1,9 @@
 ---
 ---
 
-# Where clinical vision meets trustworthy Artificial Intelligence
+# Where Clinical Vision Meets Trustworthy AI
 
-At the Clinical Vision and AI Lab (C-VAIL), we're on a mission to make AI a trusted partner in healthcare, not just a black box. Based at [Northern Arizona University](https://nau.edu/school-informatics-computing-cyber-systems/), our team develops computer vision and deep learning systems that tackle medicine's toughest challenges: From detecting disease in medical images to predicting patient outcomes. We don't just build accurate models, we build accountable ones! Ensuring that when a doctor makes a life or death decision, they can trust the AI standing beside them.
+The Clinical Vision and AI Lab (C-VAIL) at [Northern Arizona University](https://nau.edu/school-informatics-computing-cyber-systems/) builds computer vision and deep learning systems for medicine's hardest problems — from detecting disease in medical images to predicting patient outcomes. Building on a foundation of NASA- and NSF-funded research published at MICCAI, ICCV, and in Nature-portfolio journals, our mission is to make AI a trusted partner in healthcare, not a black box: we design models that are not just accurate, but accountable, so that when a clinician makes a life-or-death decision, they can trust the AI standing beside them.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ At the Clinical Vision and AI Lab (C-VAIL), we're on a mission to make AI a trus
 
 {% capture text %}
 
-We build AI systems that help clinicians make better decisions and improve patient outcomes. In all of our work, we prioritize explainability, fairness, and real-world validation.
+We build AI systems that help clinicians make sharper decisions and improve patient outcomes, engineered from the start for explainability, fairness, and real-world validation.
 {%
   include button.html
   link="research"
@@ -26,21 +26,20 @@ We build AI systems that help clinicians make better decisions and improve patie
   include feature.html
   image="images/research.png"
   link="research"
-  title="AI meets Healthcare"
+  title="AI Meets Healthcare"
   text=text
 %}
 
 {% capture text %}
 
-We are actively building our research agenda at the intersection of computer vision, medical imaging, and trustworthy AI. Stay tuned as we develop and publish our first projects.
+From NASA-funded space health imaging to open-source defenses against adversarial attacks, explore the models and tools coming out of our work — with more on the way as C-VAIL's own research agenda takes shape.
 
 {%
   include button.html
   link="projects"
-  text="Projects launching soon"
+  text="See Our Projects"
   icon="fas fa-arrow-right"
   flip=true
-  
 %}
 
 {% endcapture %}
@@ -57,7 +56,7 @@ We are actively building our research agenda at the intersection of computer vis
 
 {% capture text %}
 
-We are in the early stages of exciting projects focused on clinical AI and deep learning. Interested in collaborating or contributing? We'd love to hear from you.
+We're in the early stages of ambitious work in clinical AI and deep learning. Interested in collaborating or contributing? We'd love to hear from you.
 
 {%
   include button.html
@@ -69,7 +68,6 @@ We are in the early stages of exciting projects focused on clinical AI and deep 
 
 {% endcapture %}
 
-
 {%
   include feature.html
   image="images/team.jpg"
@@ -80,6 +78,23 @@ We are in the early stages of exciting projects focused on clinical AI and deep 
 
 {% capture text %}
 
-We are always happy to engage in conversations with students who are interested in future opportunities or collaborative work.
+We're always glad to talk with students and collaborators exploring future opportunities. Reach out any time.
+
+{%
+  include button.html
+  link="contact"
+  text="Get in Touch"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
 
 {% endcapture %}
+
+{%
+  include feature.html
+  image="images/cvail-mark.png"
+  link="contact"
+  title="Join the Conversation"
+  flip=true
+  text=text
+%}
