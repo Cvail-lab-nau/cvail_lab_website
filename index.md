@@ -5,6 +5,8 @@
 
 The Clinical Vision and AI Lab (C-VAIL) at [Northern Arizona University](https://nau.edu/school-informatics-computing-cyber-systems/) builds computer vision and deep learning systems for medicine's hardest problems — from detecting disease in medical images to predicting patient outcomes. Building on a foundation of NASA- and NSF-funded research published at MICCAI, ICCV, and in Nature-portfolio journals, our mission is to make AI a trusted partner in healthcare, not a black box: we design models that are not just accurate, but accountable, so that when a clinician makes a life-or-death decision, they can trust the AI standing beside them.
 
+{% include button.html link="research" text="RESEARCH" icon="fa-solid fa-microscope" flip=true %} {% include button.html link="publications" text="PUBLICATIONS" icon="fa-solid fa-book-open" flip=true %} {% include button.html link="team" text="TEAM" icon="fa-solid fa-users" flip=true %} {% include button.html link="contact" text="CONTACT" icon="fa-regular fa-envelope" flip=true %}
+
 {% include section.html %}
 
 ## Highlights

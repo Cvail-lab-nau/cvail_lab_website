@@ -14,6 +14,12 @@
   overflow: hidden;
   box-shadow: var(--shadow);
   vertical-align: top;
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px -8px var(--overlay);
 }
 
 .card[data-style="small"] {
@@ -24,7 +30,12 @@
   aspect-ratio: 3 / 2;
   object-fit: cover;
   width: 100%;
+  transition: transform 0.3s ease;
   // box-shadow: var(--shadow);
+}
+
+.card:hover .card-image img {
+  transform: scale(1.05);
 }
 
 .card-text {

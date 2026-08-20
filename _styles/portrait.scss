@@ -59,6 +59,12 @@
   border-radius: 999px;
   object-fit: cover;
   box-shadow: var(--shadow);
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.portrait:hover .portrait-image {
+  transform: scale(1.04);
+  box-shadow: 0 12px 30px -6px var(--overlay);
 }
 
 .portrait[data-style="tiny"] .portrait-image {
