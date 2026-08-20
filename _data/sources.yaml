@@ -14,12 +14,6 @@
   - oncology
   repo: FarihaHossain/TeachFormer
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-
 - id: doi:10.1007/978-3-031-43990-2_65
   type: paper
   buttons:
@@ -47,3 +41,64 @@
   - type: github
     link: https://github.com/FarihaHossain/ECG-Adv-GAN
   repo: FarihaHossain/ECG-Adv-GAN
+
+- id: doi:10.1007/978-3-031-20716-7_29
+  type: paper
+  buttons:
+  - type: github
+    link: https://github.com/FarihaHossain/Game-Theoretical-vulnerability-analysis-of-Adversarial-Attack
+  repo: FarihaHossain/Game-Theoretical-vulnerability-analysis-of-Adversarial-Attack
+
+- id: doi:10.1007/978-3-031-16525-2_3
+  type: paper
+
+- id: doi:10.1109/iccvw54120.2021.00362
+  type: paper
+
+- id: doi:10.1007/978-3-030-87237-3_4
+  type: paper
+
+- id: doi:10.1109/icpr48806.2021.9412428
+  type: paper
+
+- id: doi:10.1007/978-3-030-64559-5_10
+  type: paper
+
+- id: doi:10.1038/s41598-020-78696-2
+  type: paper
+
+- id: doi:10.1038/s41526-024-00364-w
+  type: paper
+
+- id: doi:10.1016/j.xops.2024.100493
+  type: paper
+
+- id: doi:10.1016/j.xpro.2022.101852
+  type: paper
+
+- id: doi:10.1016/j.isci.2022.104277
+  type: paper
+
+- type: paper
+  title: Detecting spaceflight associated neuro-ocular syndrome (SANS) using light-weight convolutional neural networks
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Joshua Ong
+  - Alireza Tavakkoli
+  - Andrew G Lee
+  publisher: Journal of Vision (ARVO)
+  date: '2023-01-01'
+  link: https://jov.arvojournals.org/article.aspx?articleid=2792812
+
+- type: paper
+  title: A generative adversarial deep neural network to translate between ocular imaging modalities while maintaining anatomical fidelity
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Joshua Ong
+  - Alireza Tavakkoli
+  - Andrew G Lee
+  publisher: Journal of Vision (ARVO)
+  date: '2022-01-01'
+  link: https://jov.arvojournals.org/article.aspx?articleid=2778479

@@ -129,61 +129,210 @@
   repo: FarihaHossain/TeachFormer
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1007/978-3-031-20716-7_29
+  title: "A Game Theoretical Vulnerability Analysis of\_Adversarial Attack"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources_old.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources_old.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Khondker Fariha Hossain
+  - Alireza Tavakkoli
+  - Shamik Sengupta
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hcgcrf
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  - type: github
+    link: https://github.com/FarihaHossain/Game-Theoretical-vulnerability-analysis-of-Adversarial-Attack
+  repo: FarihaHossain/Game-Theoretical-vulnerability-analysis-of-Adversarial-Attack
   plugin: sources.py
-  file: sources_old.yaml
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-16525-2_3
+  title: "Feature Representation Learning for\_Robust Retinal Disease Detection from\_\
+    Optical Coherence Tomography Images"
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Alireza Tavakkoli
+  - Stewart Lee Zuckerbrod
+  - Salah A. Baker
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hcgcrg
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/iccvw54120.2021.00362
+  title: 'VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using
+    Vision Transformers'
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Alireza Tavakkoli
+  - Stewart Lee Zuckerbrod
+  - Salah A. Baker
+  publisher: 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)
+  date: '2021-10-01'
+  link: https://doi.org/hcgcrh
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-87237-3_4
+  title: 'RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using
+    a Novel Multi-scale Generative Adversarial Network'
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Alireza Tavakkoli
+  - Stewart Lee Zuckerbrod
+  - Kenton M. Sanders
+  - Salah A. Baker
+  publisher: Lecture Notes in Computer Science
+  date: '2021-01-01'
+  link: https://doi.org/gt2jrm
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/icpr48806.2021.9412428
+  title: 'Attention2AngioGAN: Synthesizing Fluorescein Angiography from Retinal Fundus
+    Images using Generative Adversarial Networks'
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Alireza Tavakkoli
+  - Stewart Lee Zuckerbrod
+  publisher: 2020 25th International Conference on Pattern Recognition (ICPR)
+  date: '2021-01-10'
+  link: https://doi.org/hbs8x7
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-64559-5_10
+  title: 'Fundus2Angio: A Conditional GAN Architecture for Generating Fluorescein
+    Angiography Images from Retinal Fundus Photography'
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Alireza Tavakkoli
+  - Stewart Zuckerbrod
+  - Salah A. Baker
+  - Kenton M. Sanders
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/hcgcrj
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-020-78696-2
+  title: A novel deep learning conditional generative adversarial network for producing
+    angiography images from retinal fundus photographs
+  authors:
+  - Alireza Tavakkoli
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Stewart Lee Zuckerbrod
+  publisher: Scientific Reports
+  date: '2020-12-09'
+  link: https://doi.org/gnb6fc
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41526-024-00364-w
+  title: 'SANS-CNN: An automated machine learning technique for spaceflight associated
+    neuro-ocular syndrome with astronaut imaging data'
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Joshua Ong
+  - Nasif Zaman
+  - Ethan Waisberg
+  - Phani Paladugu
+  - Andrew G. Lee
+  - Alireza Tavakkoli
+  publisher: npj Microgravity
+  date: '2024-03-28'
+  link: https://doi.org/gtpxs9
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xops.2024.100493
+  title: 'FA4SANS-GAN: A Novel Machine Learning Generative Adversarial Network to
+    Further Understand Ophthalmic Changes in Spaceflight Associated Neuro-Ocular Syndrome
+    (SANS)'
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Joshua Ong
+  - Ethan Waisberg
+  - Nasif Zaman
+  - Salah A. Baker
+  - Andrew G. Lee
+  - Alireza Tavakkoli
+  publisher: Ophthalmology Science
+  date: '2024-07-01'
+  link: https://doi.org/gts2m5
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xpro.2022.101852
+  title: Software for segmenting and quantifying calcium signals using multi-scale
+    generative adversarial networks
+  authors:
+  - Hussein Moghnieh
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Nyanbol Kuol
+  - Sarah Riar
+  - Allison Bartlett
+  - Alireza Tavakkoli
+  - Salah A. Baker
+  publisher: STAR Protocols
+  date: '2022-12-01'
+  link: https://doi.org/hcgcrk
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.isci.2022.104277
+  title: New open-source software for subcellular segmentation and analysis of spatiotemporal
+    fluorescence signals using deep learning
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Hussein Moghnieh
+  - Sarah Riar
+  - Allison Bartlett
+  - Alireza Tavakkoli
+  - Kenton M. Sanders
+  - Salah A. Baker
+  publisher: iScience
+  date: '2022-05-01'
+  link: https://doi.org/hcgcrm
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Detecting spaceflight associated neuro-ocular syndrome (SANS) using light-weight
+    convolutional neural networks
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Joshua Ong
+  - Alireza Tavakkoli
+  - Andrew G Lee
+  publisher: Journal of Vision (ARVO)
+  date: '2023-01-01'
+  link: https://jov.arvojournals.org/article.aspx?articleid=2792812
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: A generative adversarial deep neural network to translate between ocular
+    imaging modalities while maintaining anatomical fidelity
+  authors:
+  - Sharif Amit Kamran
+  - Khondker Fariha Hossain
+  - Joshua Ong
+  - Alireza Tavakkoli
+  - Andrew G Lee
+  publisher: Journal of Vision (ARVO)
+  date: '2022-01-01'
+  link: https://jov.arvojournals.org/article.aspx?articleid=2778479
+  plugin: sources.py
+  file: sources.yaml
