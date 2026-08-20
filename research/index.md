@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research directions
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -22,20 +22,4 @@ Our work spans five connected fronts, each aimed at moving AI from the lab bench
 
 Looking ahead, we're extending this work toward foundation models and large language models for multimodal diagnostic reporting, bridging AI output and clinical insight.
 
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Enhancing efficient deep learning models with multimodal, multi-teacher insights for medical image segmentation" style="rich" %}
-{% include citation.html lookup="Revolutionizing Space Health (Swin-FSR)" style="rich" %}
-{% include citation.html lookup="Swin-SFTNet" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+### See our [publications page](publications) for more!

@@ -32,12 +32,12 @@ We build AI systems that help clinicians make sharper decisions and improve pati
 
 {% capture text %}
 
-From NASA-funded space health imaging to open-source defenses against adversarial attacks, explore the models and tools coming out of our work — with more on the way as C-VAIL's own research agenda takes shape.
+From NASA-funded space health imaging to open-source defenses against adversarial attacks, explore the peer-reviewed work coming out of our lab — with more on the way as C-VAIL's own research agenda takes shape.
 
 {%
   include button.html
-  link="projects"
-  text="See Our Projects"
+  link="publications"
+  text="See Our Publications"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -47,8 +47,8 @@ From NASA-funded space health imaging to open-source defenses against adversaria
 {%
   include feature.html
   image="images/project.svg"
-  link="projects"
-  title="Our Projects"
+  link="publications"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
